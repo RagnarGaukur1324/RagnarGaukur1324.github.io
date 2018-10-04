@@ -1,0 +1,50 @@
+body {width: auto;
+	margin: 0 auto;
+
+}
+.A {margin-bottom: 50px;
+}
+.B {margin-bottom: 50px;
+
+}
+.C {
+
+}
+.block {
+	display: block;
+	padding: 1em;
+	margin: 1em;
+	border: 3px dashed green;
+
+
+}
+
+
+.in-line {
+	display: inline;
+	color: red;
+	padding: 1em;
+	margin: 1em;
+	border: 3px dashed blue
+
+
+
+
+}
+.in-line-block {
+	display: inline-block;
+	padding: 1em;
+	margin: 1em;
+	border: 3px dashed red;
+
+
+
+}
+
+
+
+
+
+
+
+
