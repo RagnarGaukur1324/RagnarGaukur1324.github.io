@@ -1,1 +1,90 @@
+body {
+	width: 900px;
+	margin: auto;
+}
 
+.header {
+	background-color: #8FBC8F;
+	text-align: center;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 20px;
+
+}
+
+.box1 {
+	font-family: "Times New Roman", Times, serif;
+	border: 1px solid black;
+	padding: 20px;
+}
+
+.box2 {
+	font-family: Arial, Helvetica, sans-serif;
+	border: 1px solid black;
+	padding: 20px;
+}
+
+.box3 {
+	font-family: "Courier", monotype, serif;
+	border: 1px solid black;
+	padding: 20px;
+}
+
+
+
+.grid {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+}
+.grid2 {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+.grid3 {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+.box4 {
+	font-family: Georgia, serif;
+	border: 1px solid black;
+	padding: 20px;
+}
+.box5 {
+	font-family: Trebuchet, serif;
+	border: 1px solid black;
+	padding: 20px;
+}
+.box6 {
+	font-family: "Arial black", serif;
+	border: 1px solid black;
+	padding: 20px;
+}
+.box7 {
+	font-family: "Palatino Linotype", serif;
+	border: 1px solid black;
+	padding: 20px;
+}
+.box8 {
+	font-size: 0.7em;
+	line-height: 1.6em;
+	letter-spacing: 0.05em;
+	border: 1px solid black;
+	padding: 20px;
+}
+.box9 {
+	border: 1px solid black;
+	padding: 20px;
+	color: darkred;
+}
+.box10 {
+	border: 1px solid black;
+	padding: 20px;
+	font-family: Impact, serif;
+	color: red;
+	font-size: 100px;
+	text-align: center;
+	background-color: #8FBC8F;
+}
+h2 {
+	color: black;
+}
