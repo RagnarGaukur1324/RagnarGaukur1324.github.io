@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="Verkefni3.3.css">
+</head>
+<body>
+<header><h1>CSS3 Grid Layout 1</h1>
+<p><u>Grid by Example</u></p></header>
+
+<nav>
+	<div class="nav1"><a href="Verkefni3.3.html"> Sendiferðabílar</a></div>
+	<div class="nav2"><a href="Verkefni3.3.2.html"> Pallbílar</a></div>
+	<div class="nav3"><a href="Verkefni3.3.3.html">Jeppar</a></div>
+	<div class="nav4"><a href="https://www.brimborg.is/is/nyir-bilar/folksbilar">Fólksbílar</a></div>
+	<div class="nav5"><a href="https://orkusetur.is/samgongur/rafbilar/rafbilar-i-bodi/">Rafbílar</a></div>
+
+</nav>
+
+<main>
+	
+	<aside><h4>Jeppar til sölu</h4><p>Jeppar til sölu af öllum stærðum og gerðum í miklu úrvali á hagstæðu verði. Ný tilboð á jeppum á hverjum degi. Láttu ekki gott jeppatilboð fram hjá þér fara. Komu núna.</p></aside>
+	
+	<article><h4>Jeppar til sölu | Verð tilboð | Leitarvél fyrir notaða bíla</h4><p>Í leitarvél notaðra jeppa til sölu finnur þú jeppa í miklu úrvali og á hagstæðu verði. Úrval jeppa er einnig á tilboði. Hægt er að gera frábær kaup á jeppum til sölu hjá Brimborg. Smelltu á leitarvél notaðra bíla til að finna rétta jeppann fyrir þig. Hafðu svo beint samband við ráðgjafa þegar þú finnur rétta jeppann eða ef þú vilt að ráðgjafi vakti fyrir þig draumabílinn þegar hann kemur á söluskrá.</p></article>
+	
+	<aside><h4>Jeppar til sölu í úrvali á innisvæði og útisvæði</h4><p>Jeppar til sölu hjá Brimborg nema hundruðum af öllum tegundum og gerðum og í ýmsum verðflokkum. Ekki missa af góðu tækifæri til að kaupa notaðan jeppa á góðu verði hjá Brimborg. Mikill fjöldi notaðra jeppa til sýnis bæði inni og úti á sölusvæðum Brimborgar á Bíldshöfða 6, Bíldshöfða 8 og Tryggvabraut 5 Akureyri og á hverjum degi koma fleiri jeppar á söluskrá. Við bjóðum bílaskipti (notað upp í notað) og bílafjármögnun. Kynntu þér einnig prufuakstur á notuðum jeppum.</p></aside>
+
+
+</main>
+
+<footer>© 2018 Hrafn Auðbergsson</footer>
+
+
+</body>
+</html>
