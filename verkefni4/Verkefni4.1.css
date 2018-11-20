@@ -1,0 +1,42 @@
+}
+body {
+	margin: 0 auto;
+	width: 800px;
+	max-width: 60em;
+
+
+
+}
+header {
+	background-color: blue;
+	color: white;
+	padding: 17px;
+	
+}
+.Verkefni4 {
+
+}
+
+blockquote {
+	width: 50em;
+	background-color: rgba(255,255,255, 0.5);
+	padding: 10px;
+   
+}
+
+footer {
+	background-color: blue;
+	color: white;
+}
+nav {
+	color: white;
+}
+section {
+	background-image: linear-gradient(white, yellow);
+}
+.menu {
+	float: right;
+}
+a {
+	color: white;
+}
