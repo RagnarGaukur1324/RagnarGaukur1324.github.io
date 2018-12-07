@@ -20,7 +20,9 @@ body {
 	width: 50%;
 	text-align: left;
 }
-
+.Litaskali {
+	color: #6AC1E5;
+}
 .menu {
 	width: 50%;
 	float: right;
@@ -39,6 +41,7 @@ header {
 	
 }
 
+
 .midja {
 	margin-right: 15%;
 	margin-left: 15%;
@@ -52,11 +55,14 @@ blockquote {
    
 }
 
-.main {
-	
+nav {
+	color: white;
 }
 
+section {
+	background-image: linear-gradient(white, yellow);
 
+}
 .footer {
 	background-color: #6AC1E5;
 	display: grid;
@@ -67,21 +73,13 @@ blockquote {
 
 }
 
-nav {
-	color: white;
-}
 
-section {
-	background-image: linear-gradient(white, yellow);
-}
 
 a {
 	color: white;
 }
 
-.Litaskali {
-	color: #6AC1E5;
-}
+
 
 dt {
 	color: yellow;
