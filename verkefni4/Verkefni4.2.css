@@ -1,0 +1,92 @@
+
+html{
+  background-image: linear-gradient(#AAF0D1,#50BFE6,#FF6EFF,#EE34D2,#FF00CC,#FF00CC)
+}
+header {
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+body {
+  margin: 0 auto;
+}
+
+.q1, .q2, .q3, .q4, .q5, .q6, .q7 {
+    display: inline-block;
+    overflow: hidden;
+    text-align: center;
+    background-color: white;
+}
+
+
+
+
+
+
+
+
+.bla1{
+	text-align: center;
+}
+.bla2{
+	text-align: center;
+}
+.bla3{
+	text-align: center;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: center;
+}
+
+li {
+	display: inline-block;
+}
+
+
+ul li {
+
+  background: #652DC1;
+  padding: 1px;
+  padding-left: 2px;
+  padding-right: 2px;
+  align-content: center;
+  text-align: center;
+  color:white;
+
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    float: right;
+}
+
+li a:hover {
+    background-color: #111111;
+}
+
+a:visited {
+	color: purple;
+}
+
+a:hover{
+	font-weight: bold;
+}
+a.active{
+	color:white;
+}
+.topmenu1{
+	border-right: 1px solid white;
+	border-left: solid;
+}
+
+}
+
+h1{
+	padding: 15px;
+}
