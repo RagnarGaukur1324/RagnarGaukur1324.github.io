@@ -107,6 +107,8 @@ section {
   margin-right: 10%;
 }
 footer {
+  margin-left: 10%;
+  margin-right: 10px;
   background-color: #6AC1E5;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
