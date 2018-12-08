@@ -1,5 +1,5 @@
 html{
-    background-color: #0066ff;    
+  background-color: #6AC1E5; 
 }
 
 body{
@@ -24,7 +24,6 @@ header {
 .menu {
   width: 50%;
   float: right;
-
   text-align: right;
 } 
 
@@ -62,4 +61,10 @@ b{
 
 li{
     color: blue;
+}
+.left {
+    margin: 5px;
+}
+.right {
+    margin: 5px;
 }
